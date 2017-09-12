@@ -10,7 +10,7 @@ Part one of series the SAS Classic editor circa 1980s
     ```   2. Point and shoot with the keyboard      ie hit F2 after dataset hi-lite for proc means  ```
     ```   3. Point and shoot with the command line. ie type avgh on command line after hi-liting dataset  ```
     ```    ```
-    ```  This type of 'fast' programming is only supported by the old text editor with the simple  ```
+    ```  This type of 'fast' programming is only supported by the classic editor with the simple  ```
     ```  clean command line on all windows.  ```
     ```  How to map macros to the mouse and keyboard and remember actions to follow,  ```
     ```    ```
